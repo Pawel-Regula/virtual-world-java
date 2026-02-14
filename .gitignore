@@ -1,0 +1,34 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+
+### Build ###
+out/
+
+### Java ###
+*.class
+
+### Logs ###
+*.log
+
+### OS files ###
+.DS_Store
+Thumbs.db
+
+# macOS
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.fuse_hidden*
