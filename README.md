@@ -112,4 +112,4 @@ Some special behaviors:
 
 ### License
 
-Project avaible under the MIT license.
+Project available under the MIT license.
